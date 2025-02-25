@@ -12,26 +12,6 @@
     justify-content: space-between;
 }
 
-.barra div nav ul{
-    list-style: none;
-    display: flex;
-    justify-content: space-between;
-    
-}
-
-.barra div nav ul li a{
-    text-decoration: none;
-    color: black;
-}
-
-.barra{
-    padding: 10px;
-    position: sticky;
-    z-index: 1;
-    justify-content: space-around;
-    background-color: #dcbd1b;
-}
-
 
 
 .cuadro{
