@@ -12,7 +12,9 @@
     justify-content: space-between;
 }
 
-
+.barra-navegacion{
+    background-color: #dcbd1b;
+}
 
 .cuadro{
     padding: 10px;
