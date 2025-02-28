@@ -12,14 +12,13 @@
     justify-content: space-between;
 }
 
-.barra-navegacion{
-    background-color: #dcbd1b;
-}
+
 
 .navbar-nav {
     width: 100%;
     display: flex;
     justify-content: center;
+    background-color: #dcbd1b;
 }
 .cuadro{
     padding: 10px;
